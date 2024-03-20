@@ -1,4 +1,5 @@
-# myShell | CIS*3110 Assignment | author: Cameron Norrie | Date: Feb 12, 2021
+# myShell | CIS*3110 Assignment 
+# Author: Cameron Norrie | Date: Feb 12, 2021
 
 This program is a Bash shell built from scratch in C. It implements basic commands such as ls, cd, pwd, and more. 
 Supports background processes and piping. Mimicing the behaviour of a Linux shell but doesn't support full functionality.
