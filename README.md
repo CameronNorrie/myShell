@@ -8,7 +8,7 @@ Only compatabile with Linux.
 
 # Functionality:
 This program support running bash commands with any number of arguments. e.g ls -a
-The program also support input and output redirection as well as piping e.g ls | wc e.g cat ameer.txt > ameer2.txt
+The program also support input and output redirection as well as piping e.g ls | wc e.g cat cameron.txt > cameron2.txt
 The program includes support for built-in commands history, cd
 Additonally can echo environment variables from this shell : PATH, HOME,HISTFILE
 Does not support export command or chaining redirects or chaining piping.
